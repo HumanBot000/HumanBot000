@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Various Projects<br>🌱 I’m currently learning professional Deployment<br>👯 I’m looking to collaborate on projects<br>📫 How to reach me: Discord: @humanbot.<br>😄 Pronouns: he/him
+🔭 I’m currently working on Various Projects<br>👯 I’m looking to collaborate on projects<br>😄 Pronouns: he/him
 
 
 ## 🌐 Socials:
