@@ -6,6 +6,7 @@
 📚 Founder of **Schoolmate**: The all in one management app for students <br>
 ⚙️ Creator of **Boilergen**: Template based boilerplate generation CLI <br>
 🛒 Co-Founder of **P2P3D**: 3D Printung marketplace for consumers, hobbyists and semi-professional makers <br>
+💑 Initiate behind **Snap quest** The real-life challenge app for Friends 
 🤖 [Programmer of **Playground**: Minigames and economy Discord bot]
 
 
